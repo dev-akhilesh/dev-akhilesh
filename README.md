@@ -49,10 +49,10 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/vivek-goswami-680a91203">
+    <a href="https://www.linkedin.com/in/akhilesh8424/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/vivek-goswami-680a91203" />
     </a>
-    <a href="https://twitter.com/vivekgoswami934">
+    <a href="https://twitter.com/Just_Akhilesh_">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/vivekgoswami934" />
     </a>
     <a href="http://j-prajwal.netlify.app/">
@@ -66,10 +66,12 @@
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <hr>
 <p align="left">
-<a href="https://github.com/j-prajwal">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=j-prajwal&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=j-prajwal&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dev-akhilesh">
   <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=j-prajwal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-akhilesh&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-akhilesh&layout=compact&langs_count=8&theme=algolia"/>
+  <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-akhilesh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
 </a>
 </p>
