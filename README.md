@@ -13,11 +13,8 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/j-prajwal">
-        <img src="https://komarev.com/ghpvc/?username=j-prajwal&label=Profile%20views&color=0e75b6&style=flat" alt="j-prajwal" />
-    </a>
-    <a href="https://github.com/j-prajwal?tab=followers">
-        <img src="https://img.shields.io/github/followers/j-prajwal?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/dev-akhilesh">
+        <img src="https://komarev.com/ghpvc/?username=dev-akhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-akhilesh" />
     </a>
 </p>
 <br>
