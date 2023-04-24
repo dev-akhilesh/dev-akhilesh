@@ -1,7 +1,17 @@
 ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966
         )
-<h1 align="center">Hi 👋, I'm Akhilesh Takawale</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prajwal Jaiswal</h1>
+<h2><p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+</p>
+ <br/></h2>
+ 
+ <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://j-prajwal.netlify.app/">
+  <br />  <br />  
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app" /></h3>
+
+
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding" align="right" width="400px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-akhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-akhilesh" /> </p>
 
