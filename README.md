@@ -1,5 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966
-        )
+<img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
 <h1 align="center">Hi 👋, I'm Prajwal Jaiswal</h1>
 <h2><p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
