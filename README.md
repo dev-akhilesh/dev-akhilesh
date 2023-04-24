@@ -6,9 +6,9 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://j-prajwal.netlify.app/">
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="dev-akhilesh.github.io">
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="dev-akhilesh.github.io" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -50,10 +50,10 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/akhilesh8424/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/vivek-goswami-680a91203" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/akhilesh8424/" />
     </a>
     <a href="https://twitter.com/Just_Akhilesh_">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/vivekgoswami934" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Just_Akhilesh_" />
     </a>
     <a href="http://j-prajwal.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app/" />
