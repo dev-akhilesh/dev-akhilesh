@@ -6,7 +6,7 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="dev-akhilesh.github.io">
+<h3 align="center">I like learning new things to coordinate better with new technologies. You can also visit.  <a href="dev-akhilesh.github.io">
   <br />  <br />  
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="dev-akhilesh.github.io" /></h3>
 
