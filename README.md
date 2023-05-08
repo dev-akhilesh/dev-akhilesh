@@ -75,4 +75,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-akhilesh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
 </a>
 </p>
-<strong>### Cheers and Happy hacking!</strong> 😁👍💻
+<div align="center">
+  <strong>### Cheers and Happy hacking!</strong> 😁👍💻
+</div>
+
