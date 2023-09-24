@@ -80,6 +80,6 @@
 </a>
 </p>
 <div align="center">
-  <strong>### Cheers and Happy hacking!</strong> 😁👍💻
+  <strong> ### Cheers and Happy hacking! </strong> 😁👍💻
 </div>
 
