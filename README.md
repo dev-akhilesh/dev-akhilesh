@@ -9,7 +9,7 @@
  </h3>
 
 
- <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
+ <img align="right"  alt="Coding" width="460" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-akhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-akhilesh" /> </p>
 
@@ -21,8 +21,7 @@
 
 - 💬 Ask me about **MERN, JavaScript, DSA**
 
-- 📫 How to reach me 
-**akhileshtakawale703@gmail.com**
+- 📫 How to reach me **akhileshtakawale703@gmail.com**
 
 - 📄 Know about my experiences []()
 
