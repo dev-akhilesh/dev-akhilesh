@@ -8,20 +8,13 @@
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="dev-akhilesh.github.io" />
  </h3>
 
-<!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
-    <a href="https://github.com/dev-akhilesh">
-        <img src="https://komarev.com/ghpvc/?username=dev-akhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-akhilesh" />
-    </a>
-</p>
+ <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<!-- <img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-akhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-akhilesh" /> </p>
 
-
-<img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
-<p align="left"> <a href="https://x.com/Just_Akhilesh_" target="blank"><img src="https://img.shields.io/twitter/follow/Just_Akhilesh_?logo=twitter&style=for-the-badge" alt="Just_Akhilesh_" /></a> </p>
+<p align="left"> <a href="https://x.com/Just_Akhilesh_" target="blank"><img src="https://img.shields.io/twitter/follow/Just_Akhilesh_?logo=twitter&style=for-the-badge" alt="akhilesh takawale" /></a> </p>
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
@@ -32,6 +25,7 @@
 - 📫 How to reach me **akhileshtakawale703@gmail.com**
 
 - 📄 Know about my experiences []()
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
